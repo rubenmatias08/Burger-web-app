@@ -1,0 +1,81 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "Classic Burger Bun"
+      },
+      {
+        "id": 2,
+        "type": "Triple Cheese Bread"
+      },
+      {
+        "id": 3,
+        "type": "Whole Grain Bread"
+      },
+      {
+        "id": 4,
+        "type": "Gluten Free Bread"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Beef"
+      },
+      {
+        "id": 2,
+        "type": "Pork"
+      },
+      {
+        "id": 3,
+        "type": "Chicken"
+      },
+      {
+        "id": 4,
+        "type": "Veggie"
+      }
+    ],
+    "extras": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Onions"
+      },
+      {
+        "id": 4,
+        "type": "Tomato"
+      },
+      {
+        "id": 4,
+        "type": "Pickles"
+      },
+      {
+        "id": 4,
+        "type": "Lettuce"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Ordered"
+    },
+    {
+      "id": 2,
+      "type": "Producing"
+    },
+    {
+      "id": 3,
+      "type": "Finished"
+    }
+  ],
+  "burgers": []
+}
